@@ -1,14 +1,12 @@
-<img align="center" alt="Coding" width="500" src="Banner.png">
-
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Simran+Saka;Full+Stack+Development+Enthusiast;Welcome+to+my+profile!&center=true&size=25">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Simran+Saka;Full+Stack+Developer;Welcome+to+my+profile!&center=true&size=25">
 </a>
 </h1>
 
 <h3 align="center">A Computer Science student passionate about software development and full-stack engineering</h3>
 
-<img align="right" alt="Coding" width="250" src="logo.gif">
+<img align="right" alt="Coding" width="270" src="logo.gif">
 
 - 🌱 Exploring and enhancing my skills in **Full Stack Development**  
 - 💬 Ask me about **Java, Spring Boot, Angular & Data Structures**  
