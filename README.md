@@ -1,4 +1,4 @@
-![logo](Banner.png)
+<img align="center" alt="Coding" width="500" src="Banner.png">
 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
