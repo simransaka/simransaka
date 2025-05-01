@@ -6,7 +6,7 @@
 
 <h3 align="center">A Computer Science student passionate about software development and full-stack engineering</h3>
 
-<img align="right" alt="Coding" width="270" src="logo.gif">
+<img align="right" alt="Coding" width="250" src="logo.gif">
 
 - 🌱 Exploring and enhancing my skills in **Full Stack Development**  
 - 💬 Ask me about **Java, Spring Boot, Angular & Data Structures**  
