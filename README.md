@@ -1,4 +1,4 @@
-![logo](images/Banner.png)
+![logo](Banner.png)
 
 <h1 align="center">
 <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 <h3 align="center">A Computer Science student passionate about software development and full-stack engineering</h3>
 
-<img align="right" alt="Coding" width="250" src="images/logo.gif">
+<img align="right" alt="Coding" width="250" src="logo.gif">
 
 - 🌱 Exploring and enhancing my skills in **Full Stack Development**  
 - 💬 Ask me about **Java, Spring Boot, Angular & Data Structures**  
@@ -17,29 +17,29 @@
 - 📜 [Angular Certification - Internshala](https://trainings.internshala.com/progress/home/angular/) 
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 <p align="center">
-<img title="HTML5" src="./images/html5.png" alt="html5" height="35"/>
+<img title="HTML5" src="html5.png" alt="html5" height="35"/>
 &ensp;
-<img title="CSS3" src="./images/css.png" alt="css3" height="35"/>
+<img title="CSS3" src="css.png" alt="css3" height="35"/>
 &ensp;
-<img title="JavaScript" src="./images/javascript.png" alt="javascript" height="35"/>
+<img title="JavaScript" src="javascript.png" alt="javascript" height="35"/>
 &ensp;
-<img title="Java" src="./images/java.png" alt="java" height="35"/>
+<img title="Java" src="java.png" alt="java" height="35"/>
 &ensp;
-<img title="Angular" src="./images/angular.png" alt="angular" height="35"/>
+<img title="Angular" src="angular.png" alt="angular" height="35"/>
 &ensp;
-<img title="Spring Boot" src="./images/spring.png" alt="springboot" height="35"/>
+<img title="Spring Boot" src="spring.png" alt="springboot" height="35"/>
 &ensp;
-<img title="MySQL" src="./images/mysql.png" alt="mysql" height="35"/>
+<img title="MySQL" src="mysql.png" alt="mysql" height="35"/>
 &ensp;
-<img title="Bootstrap" src="./images/bootstrap.png" alt="bootstrap" height="45"/>
+<img title="Bootstrap" src="bootstrap.png" alt="bootstrap" height="45"/>
 &ensp;
-<img title="Hibernate" src="./images/hibernate.png" alt="hibernate" height="25"/>
+<img title="Hibernate" src="hibernate.png" alt="hibernate" height="25"/>
 &ensp;
-<img title="Maven" src="./images/maven.png" alt="maven" height="25"/>
+<img title="Maven" src="maven.png" alt="maven" height="25"/>
 &ensp;
-<img title="RESTful APIs" src="./images/rest.png" alt="restfulapi" height="35"/>
+<img title="RESTful APIs" src="rest.png" alt="restfulapi" height="35"/>
 &ensp;
-<img title="git & github" src="./images/git.png" alt="git & github" height="35"/>
+<img title="git & github" src="git.png" alt="git & github" height="35"/>
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
