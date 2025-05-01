@@ -15,29 +15,29 @@
 - 📜 [Angular Certification - Internshala](https://trainings.internshala.com/progress/home/angular/) 
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
 <p align="center">
-<img title="HTML5" src="html5.png" alt="html5" height="35"/>
+<img title="HTML5" src="html5.png" alt="html5" height="30"/>
 &ensp;
-<img title="CSS3" src="css.png" alt="css3" height="35"/>
+<img title="CSS3" src="css.png" alt="css3" height="30"/>
 &ensp;
-<img title="JavaScript" src="javascript.png" alt="javascript" height="35"/>
+<img title="JavaScript" src="javascript.png" alt="javascript" height="30"/>
 &ensp;
-<img title="Java" src="java.png" alt="java" height="35"/>
+<img title="Java" src="java.png" alt="java" height="30"/>
 &ensp;
-<img title="Angular" src="angular.png" alt="angular" height="35"/>
+<img title="Angular" src="angular.png" alt="angular" height="30"/>
 &ensp;
-<img title="Spring Boot" src="spring.png" alt="springboot" height="35"/>
+<img title="Spring Boot" src="spring.png" alt="springboot" height="30"/>
 &ensp;
-<img title="MySQL" src="mysql.png" alt="mysql" height="35"/>
+<img title="MySQL" src="mysql.png" alt="mysql" height="30"/>
 &ensp;
-<img title="Bootstrap" src="bootstrap.png" alt="bootstrap" height="45"/>
+<img title="Bootstrap" src="bootstrap.png" alt="bootstrap" height="40"/>
 &ensp;
-<img title="Hibernate" src="hibernate.png" alt="hibernate" height="25"/>
+<img title="Hibernate" src="hibernate.png" alt="hibernate" height="20"/>
 &ensp;
-<img title="Maven" src="maven.png" alt="maven" height="25"/>
+<img title="Maven" src="maven.png" alt="maven" height="20"/>
 &ensp;
-<img title="RESTful APIs" src="rest.png" alt="restfulapi" height="35"/>
+<img title="RESTful APIs" src="rest.png" alt="restfulapi" height="30"/>
 &ensp;
-<img title="git & github" src="git.png" alt="git & github" height="35"/>
+<img title="git & github" src="git.png" alt="git & github" height="30"/>
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
