@@ -10,7 +10,7 @@
 
 - 🌱 Exploring and enhancing my skills in **Full Stack Development**  
 - 💬 Ask me about **Java, Spring Boot, Angular & Data Structures**  
-- 📫 Reach me at [simzsim0219@gmail.com](mailto:simzsim0219@gmail.com)  
+- 📫 Reach me at [simzsim0219@gmail.com](mailto:simransaka21@gmail.com)  
 - 🌐 [LinkedIn Profile](https://linkedin.com/in/simran-saka-2a28a7287)  
 - 📜 [Angular Certification - Internshala](https://trainings.internshala.com/progress/home/angular/) 
 <h2 align="center">🛠️ Tech Stack & Tools 🛠️</h2>
