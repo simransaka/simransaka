@@ -50,8 +50,8 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simransaka&theme=react&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=simransaka&theme=react-dark&hide_border=true" alt="GitHub activity graph"/>
-</p>
+</p> -->
 
 <h3 align="center">✨ Building intelligent solutions with AI and code ✨</h3>
